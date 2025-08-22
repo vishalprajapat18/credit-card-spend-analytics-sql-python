@@ -12,3 +12,10 @@ The goal is to simulate a **real-world Data Analyst workflow**:
 ---
 
 ## 📂 Repository Structure
+├── data/
+│ └── Credit card transactions - India - Simple.csv # Dataset
+├── notebooks/
+│ └── credit_card_spending_habits.ipynb # Python EDA notebook
+├── sql/
+│ └── credit_card_project.sql # SQL queries
+├── README.md # Project documentation
